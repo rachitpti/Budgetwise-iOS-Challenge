@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "48E35773-6990-4EF4-B9CB-C565ECC52B45"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E3B74641-FB2C-4317-83AD-28FA3D3C3B4C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../var/folders/yl/ywvlq9mx2rxf_t02z0pfxgrc0000gn/T/swift-generated-sources/@__swiftmacro_31Budgetwise_iOS_Coding_Challenge33_1152B7144AFAB03BA5D23ACDD8ABC357Ll7PreviewfMf_.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1"
+            landmarkName = "$s31Budgetwise_iOS_Coding_Challenge33_1152B7144AFAB03BA5D23ACDD8ABC357Ll7PreviewfMf_15PreviewRegistryfMu_"
+            landmarkType = "37">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
